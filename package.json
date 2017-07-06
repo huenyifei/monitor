@@ -1,0 +1,15 @@
+{
+  "name": "monitor",
+  "version": "1.0.0",
+  "description": "通过监控系统运行数据来自动化测试系统功能的自动化测试程序",
+  "main": "taste-oracle.js",
+  "dependencies": {
+    "oracledb": "^1.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wuxinxin@zpmc.com",
+  "license": "ISC"
+}
