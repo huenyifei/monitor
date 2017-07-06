@@ -1,2 +1,2 @@
 var oracledb = require('oracledb')
-console.log('hello')
+console.log('hello, world')
